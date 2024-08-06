@@ -1,11 +1,11 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  base: "/myfile/",
+  base: "/",
   title: "毛",
   description: "-",
   head: [
-    ['link', { rel: 'icon', href: '/myfile/10049652.ico' }],
+    ['link', { rel: 'icon', href: '/10049652.ico' }],
   ],
   cleanUrls: true,
   themeConfig: {
